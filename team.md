@@ -11,7 +11,7 @@ He received a special award from the Japanese Ministry of Education, Culture, Sp
 
 ### 2. Koichiro Ikemizu
 
-![Member Photo](ikemizu.png)
+![Koichiro Ikemizu](ikemizu.png)
 
 **Bio:**  
 He entered the Web3 industry in 2022 and has been involved in developing NFT marketplaces, CeDiFi-based Web3 wallets, and iOS/Android apps providing RWA. At Turingum, he is engaged in blockchain system development and consulting in the systems development department.
