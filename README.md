@@ -1,4 +1,4 @@
-# EigenWasm ⚡🇪🇼⚡
+# ⚡EigenWasm⚡
 <div align="center">
   <img src="https://github.com/vitocchi/TG-EigenLayer-Hackathon/assets/38712518/6a581f0b-7834-4ce9-bd54-f2fdc9bf4aea" alt="Sample Image" width="50%">
 </div>
