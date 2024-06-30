@@ -50,7 +50,7 @@ The operator executes the Wasm code and returns the result.
 - The WasmContract Trigger emits an event and triggers the WasmContractVM.
 - The WasmContractVM runs the WasmRuntime.
 - The WasmContractVM reads the contract binary from the WasmContractRepository.
-- The WasmContract Trigger returns the result to the User.
+- The WasmContractVM returns the result to the User.
 
 ## ⚡License⚡
 This project is licensed under the MIT License.
