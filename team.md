@@ -2,7 +2,7 @@
 
 ### Naoto Sato
 
-![alt text](image.png)
+![Naoto Sato](sato-1024×1024.jpg)
 
 **Bio:**
 He received a special award from the Japanese Ministry of Education, Culture, Sports, Science, and Technology’s Innovation 2019 company special award. As a freelance engineer, he has developed multiple applications in the XR and blockchain space. He oversees the systems consulting department at Turingum and leads the token economics design and blockchain system development for DeFi and GameFi projects, both domestically and internationally.
@@ -11,7 +11,7 @@ He received a special award from the Japanese Ministry of Education, Culture, Sp
 
 ### Koichiro Ikemizu
 
-![Koichiro Ikemizu](ikemizu.png)
+![Koichiro Ikemizu](ikemizu-1024×1024.jpg)
 
 **Bio:**
 He entered the Web3 industry in 2022 and has been involved in developing NFT marketplaces, CeDiFi-based Web3 wallets, and iOS/Android apps providing RWA. At Turingum, he is engaged in blockchain system development and consulting in the systems development department.
@@ -29,7 +29,7 @@ He attended the University of Tokyo. During his time at the university, he worke
 
 ---
 
-### 4. [Hiroki Tahara]
+### 4. Hiroki Tahara
 
 ![Hiroki Tahara](Tahara-10241024.jpg)
 
@@ -38,11 +38,9 @@ After graduating from the University of Tokyo, he founded Turingum Inc. while a 
 
 ---
 
-### 5. [Member Name]
-
-![Member Photo](path/to/photo.jpg)
+### 5. Keisuke Funatsu
 
 **Bio:**
-[Brief biography highlighting key achievements, experience, and roles within the team. Mention any awards or notable projects they have worked on.]
+After graduating from the Graduate School of Frontier Sciences at the University of Tokyo, I joined Serverworks Co., Ltd. as a new graduate and worked as an AWS SIer. Later, I managed a tutoring school with a friend and started a web business during my free time in the daytime. After gaining various experiences at Fintertech Inc. and HashHub Inc., I am currently working as a Development Manager at Turingum Inc.
 
 ---
