@@ -20,7 +20,7 @@ He entered the Web3 industry in 2022 and has been involved in developing NFT mar
 
 ### Kosuke Ito
 
-![Kosuke Ito](ito.jpg)
+![Kosuke Ito](ito-1024x1024.png)
 
 **Bio:**  
 He is the co-founder and Technical Manager at Turingum K.K., where he is involved in developing systems related to multiple blockchains including Ethereum, Cosmos, and Bitcoin. His role includes overseeing technical projects and ensuring the successful implementation of blockchain solutions.
