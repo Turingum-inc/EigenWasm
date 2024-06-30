@@ -42,6 +42,15 @@ The operator executes the Wasm code and returns the result.
 ## ⚡Architecture⚡
 ![mermaid-diagram-2024-06-29-212042](https://github.com/vitocchi/TG-EigenLayer-Hackathon/assets/38712518/7e8df86f-6d6a-4763-b639-08125cdd6a34)
 
+### Component Relationships
+- The User triggers the WasmContract Trigger.
+- The User challenges the Fault Proof.
+- The Contract Deployer registers authentication information in the Registry.
+- The Contract Deployer registers the contract binary in the WasmContractRepository.
+- The WasmContract Trigger emits an event and triggers the WasmContractVM.
+- The WasmContractVM runs the WasmRuntime.
+- The WasmContractVM reads the contract binary from the WasmContractRepository.
+- The WasmContract Trigger returns the result to the User.
 
 ## ⚡License⚡
 This project is licensed under the MIT License.
